@@ -1,0 +1,23 @@
+{
+  "name": "03-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NelliPestych/03-mongodb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NelliPestych/03-mongodb/issues"
+  },
+  "homepage": "https://github.com/NelliPestych/03-mongodb#readme",
+  "dependencies": {
+    "mongodb": "^3.6.2"
+  }
+}
